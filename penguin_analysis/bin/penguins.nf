@@ -1,8 +1,8 @@
 #!/usr/bin/env nextflow
 
-params.data = '/home/zach/projects/psb2025-workshop/penguin_analysis/data/penguins_size.csv'
-params.cleaning_script = '/home/zach/projects/psb2025-workshop/penguin_analysis/bin/data_cleaning.py'
-params.analysis_script = '/home/zach/projects/psb2025-workshop/penguin_analysis/bin/species_analysis.py'
+params.data = '/home/zach/projects/pmbb/psb2025-workshop/penguin_analysis/data/penguins_size.csv'
+params.cleaning_script = '/home/zach/projects/pmbb/psb2025-workshop/penguin_analysis/bin/data_cleaning.py'
+params.analysis_script = '/home/zach/projects/pmbb/psb2025-workshop/penguin_analysis/bin/species_analysis.py'
 
 process clean_data {
     publishDir "${launchDir}/data/"

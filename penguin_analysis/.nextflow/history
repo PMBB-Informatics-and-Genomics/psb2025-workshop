@@ -17,3 +17,7 @@
 2024-12-31 17:36:16	2.2s	marvelous_brahmagupta	ERR	c80f39d07f00eec06aedae7f9467a864	839fbba9-e0a2-42de-a732-c1ee997a3660	nextflow run bin/penguins.nf
 2024-12-31 17:38:11	4.5s	hungry_cori	ERR	c80f39d07f00eec06aedae7f9467a864	ad321cc0-1f52-477f-96da-7984a40b7288	nextflow run bin/penguins.nf
 2024-12-31 17:39:44	3.9s	deadly_davinci	OK	c80f39d07f00eec06aedae7f9467a864	cf36f594-5752-49a9-bcb5-e7333310b7a7	nextflow run bin/penguins.nf
+2025-01-03 20:53:01	2.6s	pedantic_stone	ERR	c80f39d07f00eec06aedae7f9467a864	09337ad5-3c5c-49ac-a3ee-aa305ef7e144	nextflow run bin/penguins.nf
+2025-01-03 20:55:37	2.7s	golden_mcclintock	ERR	c80f39d07f00eec06aedae7f9467a864	9abec208-0695-47c9-a880-1fe50324f8d9	nextflow run bin/penguins.nf
+2025-01-03 20:58:32	2.1s	determined_liskov	ERR	c80f39d07f00eec06aedae7f9467a864	3b32d961-71f7-48c9-939d-b73237a1d884	nextflow run bin/penguins.nf
+2025-01-03 21:00:13	7.6s	infallible_agnesi	OK	a8b6c7183aebf3336901f33db2fe03b7	55d4684f-1faf-41d9-8e88-35693adcfcef	nextflow run bin/penguins.nf
